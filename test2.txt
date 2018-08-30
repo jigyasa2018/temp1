@@ -1,1 +1,2 @@
 I am test2.txt. I am new line. I am a new line after feature-c branch was created. I am a new line again. New and more.
+Adding new line here as test 
